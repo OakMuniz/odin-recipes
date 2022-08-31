@@ -1,0 +1,31 @@
+body{
+    max-width: 600px;
+    margin:auto;
+
+    background-color: #eca1a6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+
+    height: 300px;
+    width: 300px;
+    border-radius: 180px;
+}
+
+h1,h2,h3{
+    color:white;
+    font-size: 400;
+}
+
+ul{
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    font-size: large;
+    font-style: oblique;
+    
+}

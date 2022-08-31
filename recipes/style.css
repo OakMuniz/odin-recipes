@@ -1,15 +1,20 @@
 body{
     max-width: 600px;
     margin: auto;
-    background-color: bisque;
+    background-color: #e6e2d3;
+    color: #b9936c;
 }
 
 
-
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #3e4444;
+    font-size: larger;
+}
 
 
 h1 {
-    color: rgb(66, 73, 34);
+    color: #3e4444;
     font-weight: bold;
 }
 
@@ -20,18 +25,17 @@ img {
 }
 
 h2 {
-    color: rgb(66, 73, 34);
+    color: #3e4444;
 }
 
 h3 {
-    color: rgb(66, 73, 34);
+    color: #3e4444;
 }
 
 ul {
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(255, 255, 255);
-    background-color: rgb(52, 68, 172);
-
+    font-style: italic ;
+    font-size: large;
+    font-weight: bolder;
     
 }
 
