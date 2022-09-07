@@ -1,0 +1,10 @@
+.flex-container div{
+    display: flex;
+}
+
+.flex-container div{
+    background: blue;
+    border: 4px solid black;
+    height: 100px;
+    flex:1;
+}
